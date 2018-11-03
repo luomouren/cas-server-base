@@ -1,0 +1,8 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^(https|imaps|http)://.*",
+  "name" : "web",
+  "id" : 10000001,
+  "description" : "所有的https或者http访问都允许通过",
+  "evaluationOrder" : 100
+}
