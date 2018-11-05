@@ -1,0 +1,9 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^(https|imaps|http)://client1.guangyuanbj.com.*",
+  "name" : "测试客户端veems",
+  "id" : 1000,
+  "description" : "这是veems的客户端",
+  "evaluationOrder" : 10,
+  "theme" : "loginTheme1"
+}
